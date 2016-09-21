@@ -23,8 +23,8 @@ class BinsList extends Component {
                         </button>
                     </span>
                 </li>
-            )
-        })
+            );
+        });
     }
     render() {
         return (
