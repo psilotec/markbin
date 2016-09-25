@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="587b3cc8-3c49-4615-99ba-4da1facdb196" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/bins/bins_list.js" afterPath="$PROJECT_DIR$/client/components/bins/bins_list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/header.js" afterPath="$PROJECT_DIR$/client/components/header.js" />
     </list>
     <ignored path="markbin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,20 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/components/header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.18438178">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bins_list.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bins_list.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/components/bins/bins_list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46095446">
+            <state vertical-scroll-proportion="0.0">
               <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
@@ -148,8 +149,8 @@
         <option value="$PROJECT_DIR$/client/components/bins/bins_main.js" />
         <option value="$PROJECT_DIR$/client/components/app.js" />
         <option value="$PROJECT_DIR$/client/main.js" />
-        <option value="$PROJECT_DIR$/client/components/header.js" />
         <option value="$PROJECT_DIR$/client/components/bins/bins_list.js" />
+        <option value="$PROJECT_DIR$/client/components/header.js" />
       </list>
     </option>
   </component>
@@ -191,6 +192,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -297,8 +300,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,6 +418,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/accounts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -785,14 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/components/header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -803,8 +812,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/components/bins/bins_list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46095446">
+        <state vertical-scroll-proportion="0.0">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18438178">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
           <folding />
         </state>
       </provider>
